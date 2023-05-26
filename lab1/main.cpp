@@ -13,14 +13,14 @@ double Ux0(double x){
 int main(){
 	
 //	Kiritish ================================
-	cout<<"l=";cin>>l;
-	cout<<"h=";cin>>h;
-	cout<<"tau=";cin>>tau;
-	cout<<"a=";cin>>a;
-	cout<<"b=";cin>>b;
-	cout<<"c=";cin>>c;
-	cout<<"d=";cin>>d;
-	cout<<"at=";cin>>at;
+	l = 0.5;
+	h = 0.05;
+	tau = 1.0;
+	a = 22;
+	b = 4;
+	c = 0.25;
+	d = 46;
+	at = 0.005;
 // ==========================================
 
 	double y[100][100];  // qiymatlar massivi

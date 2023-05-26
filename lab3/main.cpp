@@ -23,11 +23,10 @@ double ux_0(double x){
 
 
 int main(){
-	cout<<"a="; cin>>a;
-	cout<<"b="; cin>>b;
-	cout<<"c="; cin>>c;
-	cout<<"d="; cin>>d;
-	cout<<"e="; cin>>e;	
+	a = 6;
+	b = 0.2;
+	c = 0.6;
+	e = 0.7;
 	
 	double l=1,h=0.1,tau=h/a,gamma;
 	
