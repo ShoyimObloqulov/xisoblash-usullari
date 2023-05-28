@@ -141,7 +141,7 @@ footer{
 
 	<footer>
 		<div class="footer-content">
-		     <h4>&copy; Code by Esanov Otabek;</h4>
+		     <h4>&copy; Code by Shoyim Obloqulov;</h4>
 		</div>
 
 	</footer>
